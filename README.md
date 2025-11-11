@@ -24,3 +24,18 @@ pip (Python package manager)
 <h2>Install dependencies</h2>
 
 pip install flask pandas werkzeug
+
+
+<h3>🛠️ How to Use</h3>
+
+Upload Files: Drag & drop or click to upload CSV/ZIP files
+
+Start Validation: Click "START VALIDATION" to begin processing
+
+View Results: See real-time statistics (valid/invalid counts)
+
+Download: Get a clean CSV containing only valid email addresses
+
+
+
+------------xxxxxxx-----------------
